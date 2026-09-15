@@ -1,5 +1,17 @@
 {
-  "last_update_id": 561549733,
-  "next_id": 1,
-  "watches": []
+  "last_update_id": 561549735,
+  "next_id": 2,
+  "watches": [
+    {
+      "id": 1,
+      "dep": "서울",
+      "arr": "부산",
+      "date": "20261016",
+      "start": "0900",
+      "end": "1200",
+      "seat": "일반실",
+      "had_seat": false,
+      "open_notified": false
+    }
+  ]
 }
