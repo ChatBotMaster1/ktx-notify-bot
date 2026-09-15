@@ -11,7 +11,7 @@
       "end": "1200",
       "seat": "일반실",
       "had_seat": false,
-      "open_notified": false
+      "open_notified": true
     }
   ]
 }
